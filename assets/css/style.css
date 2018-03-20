@@ -1,0 +1,38 @@
+h1 {
+background-color: orange;
+color: white;
+margin: 10px;
+padding: 10px;
+text-align: center;
+}
+
+.instructions {
+background-color: lightsalmon;
+color: green;
+clear: both;
+margin: 10px;
+padding: 10px;
+
+}
+
+.assignedNumber{
+background-color: green;
+color: purple;
+float: left;
+display: inline-block;
+width: 20%;
+}
+
+.result {
+background-color: lightblue;
+color: green;
+padding: 10px;
+float: left;
+}
+
+crystals {
+margin: 10px;
+padding: 10px;
+clear: both;
+
+}
